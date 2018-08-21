@@ -1,4 +1,4 @@
-Write Markdown in Arabic
+Write Urdu in Markdown
 
 #### What's in:
 
@@ -9,9 +9,8 @@ Write Markdown in Arabic
 #### Used Resources:
 
 - [markdown-js](https://github.com/evilstreak/markdown-js)
-- [Droid Arabic Naskh](http://www.google.com/fonts/earlyaccess)
+- [markdown-arabic](https://github.com/ahmadajmi/markdown-arabic)
 
-Hosted on GitHub pages at [arabicmarkdown.github.io](https://github.com/arabicmarkdown/arabicmarkdown.github.io) repo.
 
 ### Run the code with nodejs on localhost
 
